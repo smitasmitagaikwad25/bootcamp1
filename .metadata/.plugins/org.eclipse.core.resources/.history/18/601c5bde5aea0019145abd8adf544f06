@@ -1,0 +1,18 @@
+package com.day2;
+
+public class Stats {
+	
+	public static void main (String [] args)
+	{
+		System.out.println(Math.random());
+		int a=1;
+		int b=2;
+		//if(Math.random()<1)
+		System.out.println(Math.min(a, b));
+		System.out.println(Math.max(a, b));
+		
+	}
+	
+	
+
+}

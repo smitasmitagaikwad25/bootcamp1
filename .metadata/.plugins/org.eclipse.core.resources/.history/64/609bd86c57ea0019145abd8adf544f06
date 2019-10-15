@@ -1,0 +1,16 @@
+package com.day2;
+
+public class Stats {
+	
+	public static void main (String [] args)
+	{
+		System.out.println(Math.random());
+		int a;
+		int b;
+		System.out.println(Math.min(a, b));
+		
+	}
+	
+	
+
+}

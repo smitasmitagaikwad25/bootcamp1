@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.day2.Coup&apos; to &apos;harmoni&apos;&#x0A;- Original project: &apos;Demo&apos;&#x0A;- Original element: &apos;com.day2.Coup&apos;&#x0A;- Renamed element: &apos;com.day2.harmoni&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Coup&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.day2{Coup.java[Coup" matchStrategy="1" name="harmoni" qualified="false" references="true" similarDeclarations="false" stamp="1570687491677" textual="false" version="1.0"/>
+</session>

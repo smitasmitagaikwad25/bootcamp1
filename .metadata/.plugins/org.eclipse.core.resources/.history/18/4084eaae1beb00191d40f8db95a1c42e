@@ -1,0 +1,34 @@
+package com.day2;
+
+public class Flip {
+	
+
+
+	public static void main(String [] args)
+	
+	{
+		
+	int	counter=0;
+	int head=0;
+	int tail=0;
+	
+	
+	
+		if(Math.random()<0.5)
+		{
+			
+			System.out.println("head:"+head);
+			counter++;
+			System.out.println(counter);
+		}
+		else
+			
+		{
+			
+			System.out.println("tail:"+tail);
+			counter++;
+		}
+		
+	}
+
+}

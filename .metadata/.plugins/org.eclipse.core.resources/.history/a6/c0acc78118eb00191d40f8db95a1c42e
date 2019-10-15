@@ -1,0 +1,25 @@
+package com.day2;
+
+public class Stats {
+	
+	public static void main (String [] args)
+	{
+		for(int i=1; i<=5;i++) {
+		double x = Math.random();
+		//x = Math.max(x, 1);
+		//x = Math.min(x, 0);
+		System.out.println("random no:"+i +"is" + x);
+		double max=0.0;
+		double min=1.0;
+		
+		//max = Math.max(x, 0.0);
+		//min = Math.min(x, 1.0);
+		
+		//System.out.println(max);
+		
+		
+	}
+	
+	}	
+
+}
